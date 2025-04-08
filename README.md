@@ -2,7 +2,12 @@
 
 This project predicts student math scores using a complete ML pipeline with MLflow tracking, Docker containerization, and deployment on Azure App Services. It demonstrates MLOps best practices, including experiment tracking, model packaging, and CI/CD integration for robust real-world deployment.
 
-🔗 **Live App**: [Click to Predict](https://studentscoretest-gtchgvbwfvdsawht.canadacentral-01.azurewebsites.net/predictdata_blank)
+🔗 **Live App**: <a href="https://studentscoretest-gtchgvbwfvdsawht.canadacentral-01.azurewebsites.net/predictdata_blank" target="_blank">Click to Predict</a>
+
+### 🖼️ Live App Screenshot
+
+![App Screenshot](screenshot.png)
+
 
 ---
 
